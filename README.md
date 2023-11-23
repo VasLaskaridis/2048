@@ -8,4 +8,4 @@ This project is a 2048 clone written in Unity.
 - Have a button for new game
 
 ## Gallery
-![image text](https://github.com/VasLaskaridis/2048/2048.png)
+![image](https://github.com/VasLaskaridis/2048/2048.png)
