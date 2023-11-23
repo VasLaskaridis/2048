@@ -6,3 +6,5 @@ This project is a 2048 clone written in Unity.
 - Keep players best score
 - Keep current score
 - Have a button for new game
+
+## Gallery
